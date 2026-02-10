@@ -143,7 +143,7 @@ googlecolab notebook notebooks/03_clustering_model.ipynb
 ```
 
 5. Open Power BI dashboard
-- Open `dashboards/customer_segments.pbix` in Power BI Desktop
+- Open `dashboards/credit_card_customers_dashboard.pbix` in Power BI Desktop
 
 
 ## 📝 Future Enhancements
